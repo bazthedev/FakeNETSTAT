@@ -1,0 +1,86 @@
+// Change all instances of "User" to you windows username
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "C:/Users/User/Documents/Fake netstat/netstat.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": true
+  },
+  {
+   "optionDest": "console",
+   "value": true
+  },
+  {
+   "optionDest": "name",
+   "value": "NETSTAT"
+  },
+  {
+   "optionDest": "ascii",
+   "value": false
+  },
+  {
+   "optionDest": "clean_build",
+   "value": true
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "win_private_assemblies",
+   "value": false
+  },
+  {
+   "optionDest": "win_no_prefer_redirects",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "binaries",
+   "value": "C:/Users/User/AppData/Local/Programs/Python/Python39/Lib/os.py;."
+  },
+  {
+   "optionDest": "binaries",
+   "value": "C:/Users/User/AppData/Local/Programs/Python/Python39/Lib/site-packages/mypy/typeshed/stdlib/@python2/msvcrt.pyi;."
+  },
+  {
+   "optionDest": "binaries",
+   "value": "C:/Users/User/AppData/Local/Programs/Python/Python39/Lib/site-packages/mypy/typeshed/stdlib/@python2/time.pyi;."
+  },
+  {
+   "optionDest": "binaries",
+   "value": "C:/Users/User/AppData/Local/Programs/Python/Python39/Lib/site-packages/mypy/typeshed/stdlib/platform.pyi;."
+  },
+  {
+   "optionDest": "binaries",
+   "value": "C:/Users/User/AppData/Local/Programs/Python/Python39/Lib/site-packages/mypy/typeshed/stdlib/random.pyi;."
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
