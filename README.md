@@ -15,3 +15,5 @@
 ### - Find NETSTAT.EXE
 ### - Copy it to a location you will remember
 ### - Now copy this NETSTAT to the same path
+
+#### Please note this repository will continue to receive updates
